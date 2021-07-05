@@ -1,0 +1,16 @@
+.header{
+    width: 100vw;
+    background-color: white;
+    object-fit: contain;
+    border-bottom: 1px solid lightgrey;
+    padding: 0 20px;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    max-height: 54px;
+
+    .app__headerImage {
+        width: 140px;
+        height: 40px;
+      }
+}
