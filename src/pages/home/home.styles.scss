@@ -4,3 +4,16 @@
     padding-top: 30px;
     margin: 0 auto;
 }
+
+.modal__body{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    .modal__logo{
+        
+        .modal__logoImage{
+            width: 140px;
+            height: 40px;
+        }
+    }
+}
