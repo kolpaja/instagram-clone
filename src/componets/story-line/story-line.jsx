@@ -1,5 +1,5 @@
 import React from "react";
-import "./story-line.styles.scss";
+import "./Story-Line.styles.scss";
 
 function StoryLine() {
   return <div className="story-line"></div>;
